@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "app_default_domain": "realm2021-zrzsg.mongodbstitch.com",
+    "default_error_path": "/index.html",
+    "default_error_code": "200"
+}
